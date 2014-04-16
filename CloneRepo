@@ -1,18 +1,6 @@
 CloneRepo
 ===========
-mkdir ~/datasciencecoursera
-
-cd ~/datasciencecoursera
-
-git init
-
-touch CloneRepo
-
-"CloneRepo!" 
-
-git add CloneRepo
-
-git clone https://github.com/uqlchen1/datasharing.git
+git clone https://github.com/jtleek/datasharing.git
 # Clones your fork of the repository into the current directory in terminal
 
 cd jtleek
@@ -25,7 +13,18 @@ git fetch upstream
 # Pulls in changes not present in your local repository, without modifying your files
 
 
-git commit -m 'first commit'
-
-git remote add origin https://github.com/uqlchen1/datasciencecoursera/cloneRepo.git
 git push origin master
+# Pushes commits to your remote repository stored on GitHub
+
+
+git fetch upstream
+# Fetches any new changes from the original repository
+git merge upstream/master
+# Merges any changes fetched into your working files
+
+
+
+
+
+
+
