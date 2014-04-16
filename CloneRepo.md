@@ -13,6 +13,7 @@ git fetch upstream
 # Pulls in changes not present in your local repository, without modifying your files
 
 
+
 git push origin master
 # Pushes commits to your remote repository stored on GitHub
 
@@ -22,9 +23,9 @@ git fetch upstream
 git merge upstream/master
 # Merges any changes fetched into your working files
 
-
-
-
-
 git remote add origin https://github.com/uqlchen1/datasciencecoursera/CloneRepo.git
+
+
+
+
 
