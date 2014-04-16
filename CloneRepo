@@ -1,4 +1,4 @@
-Clone the Repo
+CloneRepo
 ===========
 mkdir ~/datasciencecoursera
 
@@ -8,15 +8,15 @@ git init
 
 touch CloneRepo
 
-"Clone the Repo!" 
+"CloneRepo!" 
 
 git add CloneRepo
 
 git clone https://github.com/uqlchen1/jtleek/datasharing.git
 # Clones your fork of the repository into the current directory in terminal
+
 cd jtleek
 # Changes the active directory in the prompt to the newly cloned "jtleek" directory
-
 
 git remote add upstream https://github.com/jtleek/datasharing.git
 # Assigns the original repository to a remote called "upstream"
