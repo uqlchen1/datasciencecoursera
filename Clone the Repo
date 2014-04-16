@@ -1,2 +1,8 @@
-$git clone https://github.com/uqlchen1/jtleek.git
+$ git clone https://github.com/uqlchen1/jtleek.git
 # Clones your fork of the repository into the current directory in terminal
+cd jtleek
+# Changes the active directory in the prompt to the newly cloned "jtleek" directory
+git remote add upstream https://github.com/octocat/jtleek.git
+# Assigns the original repository to a remote called "upstream"
+git fetch upstream
+# Pulls in changes not present in your local repository, without modifying your files
