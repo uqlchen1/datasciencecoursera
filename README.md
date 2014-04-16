@@ -17,4 +17,4 @@ git commit -m 'first commit'
 git remote add origin https://github.com/uqlchen1/datasciencecoursera.git
 
 git push origin master
-# Sends your commits in the "master" branch to GitHub
+# Sends my commits in the "master" branch to GitHub
