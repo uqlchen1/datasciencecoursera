@@ -1,4 +1,8 @@
-$ git clone https://github.com/uqlchen1/jtleek.git
+
+Clone the Repo
+-------------------
+-------------------
+git clone https://github.com/uqlchen1/jtleek/datasharing.git
 # Clones your fork of the repository into the current directory in terminal
 cd jtleek
 # Changes the active directory in the prompt to the newly cloned "jtleek" directory
