@@ -26,5 +26,5 @@ git merge upstream/master
 
 
 
-
+git remote add origin https://github.com/uqlchen1/datasciencecoursera/CloneRepo.git
 
