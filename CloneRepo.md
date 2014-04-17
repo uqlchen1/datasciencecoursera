@@ -23,7 +23,7 @@ git fetch upstream
 git merge upstream/master
 # Merges any changes fetched into your working files
 
-git remote add origin https://github.com/uqlchen1/datasciencecoursera/CloneRepo.git
+git remote add origin https://github.com/uqlchen1/datasciencecoursera.git
 
 
 
